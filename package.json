@@ -1,0 +1,29 @@
+{
+  "name": "wita",
+  "version": "1.0.0",
+  "description": "wita API",
+  "main": "out/index.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "puppeteer": "^13.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.7",
+    "@types/puppeteer": "^5.4.4",
+    "ts-node": "^10.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oponeuser7/wita.git"
+  },
+  "author": "Yongwoo Nam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oponeuser7/wita/issues"
+  },
+  "homepage": "https://github.com/oponeuser7/wita#readme",
+  "type": "module"
+}

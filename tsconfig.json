@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"strict": true,
+		"module": "esnext",
+		"esModuleInterop": true,
+		"lib": ["es2020", "dom", "dom.iterable"],
+		"target": "ES5",
+		"allowSyntheticDefaultImports": true,
+		"outDir": "./out"
+	},
+	"exclude": ["node_modules"],
+	"include": ["src/*"]
+}
